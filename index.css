@@ -171,7 +171,7 @@ html[data-theme="dark"] {
 
 @media (min-width: 691px) {
 	a.desktop {
-	margin-bottom:32px;
+	margin-bottom:20px;
 	}
 	div.links a.link {
 	width:45%;
