@@ -117,9 +117,10 @@ a.desktop {
     transition: all .3s;
 }
 
-a.desktop:hover, a.desktop:active, p a:hover, p a:active {
+a.desktop:hover, a.desktop:active, p a:hover, p a:active, a h1:hover, a h1:active, a h1:focus {
     color: var(--accent-color)!important;
     cursor:pointer;
+    text-decoration:none!important;
 }
 
 .hidden {
