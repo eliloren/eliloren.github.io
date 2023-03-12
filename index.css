@@ -128,9 +128,9 @@ text-decoration:none!important;
 }
 
 #text {
-	border-radius:25px;
-	padding:1rem;
-background-color:var(--white-color);
+	border-radius:15px;
+	padding:20px;
+        background-color:var(--white-color);
 }
 
 .hidden {
