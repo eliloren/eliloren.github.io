@@ -144,7 +144,7 @@ html[data-theme="light"] {
 
 html[data-theme="dark"] {
 	--text-color: lavender;
-	--accent-color: #8563FF;
+	--accent-color: #FF63BB;
 	--card-color: #1c1238;
 	--white-color: #0b0317;
 	--black-color: black;
@@ -156,7 +156,7 @@ html[data-theme="dark"] {
 	html,
 	html[data-theme="dark"] {
 		--text-color: lavender;
-		--accent-color: #8563FF;
+		--accent-color: #FF63BB;
 		--card-color: #1c1238;
 		--white-color: #0b0317;
 		--black-color: black;
